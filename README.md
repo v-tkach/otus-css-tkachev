@@ -8,5 +8,5 @@
 
 ```bash
 git clone https://github.com/v-tkach/otus-css-tkachev.git
-otus-css-tkachev
+cd otus-css-tkachev
 ```
