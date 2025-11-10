@@ -1,12 +1,3 @@
-# Мой первый репозиторий на курсе HTML/CSS
+# Домашнее задание №2
 
-Этот репозиторий я создал для выполнения домашнего задания по уроку №2 "Version Control"
-
-## Установка и запуск
-
-1. Склонируйте репозиторий:
-
-```bash
-git clone https://github.com/v-tkach/otus-css-tkachev.git
-cd otus-css-tkachev
-```
+Создана структура HTML по макету Mod Studio
